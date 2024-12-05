@@ -11,7 +11,7 @@ class ListingPolicy
 {
     public function before(?User $user, $ability)
     {
-        if ($user?->is_admin/*  && $ability == 'update' */) {
+        if ($user?->is_admin) {
             return true;
         }
     }
@@ -20,7 +20,7 @@ class ListingPolicy
      */
     public function viewAny(?User $user): bool
     {
-        return false;
+        return true;
     }
 
     /**
