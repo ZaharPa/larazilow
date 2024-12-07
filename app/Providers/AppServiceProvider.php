@@ -6,6 +6,9 @@ use Illuminate\Support\ServiceProvider;
 
 class AppServiceProvider extends ServiceProvider
 {
+    protected $policies = [
+        'Illuminate\Notifications\DatabaseNotification' => 'App\Policies\NotificationPolicy'
+    ];
     /**
      * Register any application services.
      */
