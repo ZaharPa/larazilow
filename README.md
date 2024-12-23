@@ -83,4 +83,14 @@ Larazilow is open-sourced software licensed under the [MIT license](https://open
 ## Page Look
 
 Here are some screenshots of the application:
+![registration ](https://github.com/user-attachments/assets/73535b27-197f-43b2-a293-836c9dd8f4de)
+
+![listings](https://github.com/user-attachments/assets/5224fdb0-7574-4dad-adfd-d773bec62d5e)
+
+![listing](https://github.com/user-attachments/assets/a845c973-fe8e-47b1-9e3d-6304eefa3605)
+
+![user page](https://github.com/user-attachments/assets/602bca2b-bf44-4155-a563-2c0708817f62)
+
+
+
 
